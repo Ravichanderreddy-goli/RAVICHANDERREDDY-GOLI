@@ -1,16 +1,13 @@
-### Hi there 👋
+## My Github Profile
 
-<!--
-**Ravichanderreddy-goli/RAVICHANDERREDDY-GOLI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
+My name is Ravichander Reddy Goli, I came from Warangal, India. I completed my Bachelor's from SR Engineering College in computer science field in 2019. I am currently pursuing my Master's at Northwest Missouri state University. I don't have any work experience. I have done certifications on python, php. My hobbies are playing, travelling. 
 
-Here are some ideas to get you started:
+## Collaboration:
+* GitHub: Profile / Repos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages:
+* GitHub Markdown
+
+## Technical skills:
+

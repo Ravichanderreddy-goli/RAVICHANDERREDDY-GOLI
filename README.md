@@ -4,7 +4,7 @@
 My name is Ravichander Reddy Goli, I came from Warangal, India. I completed my Bachelor's at SR Engineering College from computer science field in 2019. I am currently pursuing my Master's at Northwest Missouri state University. I don't have any work experience. I have done certifications on python, php. My hobbies are playing, travelling. 
 
 ## Collaboration:
-* GitHub: Profile / Repos
+* GitHub: Profile(https://github.com/Ravichanderreddy-goli)
 
 ## Languages:
 * GitHub Markdown

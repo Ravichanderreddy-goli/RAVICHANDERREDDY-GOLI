@@ -10,4 +10,9 @@ My name is Ravichander Reddy Goli, I came from Warangal, India. I completed my B
 * GitHub Markdown
 
 ## Technical skills:
+Languages like JAVA, Javascript, HTML, CSS, Python.
+
+## Linkedin Profile:
+[Link](https://www.linkedin.com/in/ravichander-reddy-goli-606ab8171/)
+
 
